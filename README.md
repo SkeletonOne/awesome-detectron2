@@ -13,7 +13,7 @@ A collection of awesome projects build with detectron2
 
 ## Backbone
 
-[VovNet](https://github.com/youngwanLEE/vovnet-detectron2)
+[VoVNet](https://github.com/youngwanLEE/vovnet-detectron2)
 
 ## Object Detection
 
@@ -38,3 +38,7 @@ A collection of awesome projects build with detectron2
 [DANet](https://github.com/leftthomas/DANet)
 
 [EMANet](https://github.com/leftthomas/EMANet)
+
+## 3D
+
+[MeshRCNN](https://github.com/facebookresearch/meshrcnn)
