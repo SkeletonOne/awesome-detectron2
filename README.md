@@ -1,6 +1,6 @@
 # awesome-detectron2
 
-A collection of projects build with detectron2
+A collection of awesome projects build with detectron2
 
 - [Backbone](#Backbone)
 - [Object Detection](#Object-Detection)
