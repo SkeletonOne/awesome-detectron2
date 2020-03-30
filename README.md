@@ -6,6 +6,7 @@ A collection of awesome projects build with detectron2
 - [Object Detection](#Object-Detection)
 - [Instance Segmentation](#Instance-Segmentation)
 - [Semantic Segmentation](#Semantic-Segmentation)
+- [3D](#3D)
 
 ## Base Detectron2
 
