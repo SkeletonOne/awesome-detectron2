@@ -3,9 +3,9 @@
 A collection of projects build with detectron2
 
 - [Backbone](#Backbone)
-- [Object Detection](#Object Detection)
-- [Instance Segmentation](#Instance Segmentation)
-- [Semantic Segmentation](#Semantic Segmentation)
+- [Object Detection](#Object-Detection)
+- [Instance Segmentation](#Instance-Segmentation)
+- [Semantic Segmentation](#Semantic-Segmentation)
 
 ## Base Detectron2
 
