@@ -22,6 +22,8 @@ A collection of awesome projects build with detectron2
 
 [CenterNet-better](https://github.com/FateScript/CenterNet-better)
 
+[EfficientDet](https://github.com/zzzxxxttt/simple_detectron2_EfficientDet)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
