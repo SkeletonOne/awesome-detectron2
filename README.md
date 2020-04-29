@@ -42,6 +42,10 @@ A collection of awesome projects build with detectron2
 
 [EMANet](https://github.com/leftthomas/EMANet)
 
+[DynamicRouting](https://github.com/yanwei-li/DynamicRouting)
+
 ## 3D
 
 [MeshRCNN](https://github.com/facebookresearch/meshrcnn)
+
+[SMOKE](https://github.com/lzccccc/SMOKE)
