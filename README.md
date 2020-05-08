@@ -6,6 +6,7 @@ A collection of awesome projects build with detectron2
 - [Object Detection](#Object-Detection)
 - [Instance Segmentation](#Instance-Segmentation)
 - [Semantic Segmentation](#Semantic-Segmentation)
+- [Panoptic Segmentation](#Panoptic-Segmentation)
 - [3D](#3D)
 
 ## Base Detectron2
@@ -43,6 +44,10 @@ A collection of awesome projects build with detectron2
 [EMANet](https://github.com/leftthomas/EMANet)
 
 [DynamicRouting](https://github.com/yanwei-li/DynamicRouting)
+
+## Panoptic Segmentation
+
+[SOGNet](https://github.com/LaoYang1994/SOGNet-Dev)
 
 ## 3D
 
