@@ -8,6 +8,7 @@ A collection of awesome projects build with detectron2
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Panoptic Segmentation](#Panoptic-Segmentation)
 - [3D](#3D)
+- [Text Spotting](#Text-Spotting)
 
 ## Base Detectron2
 
@@ -19,7 +20,7 @@ A collection of awesome projects build with detectron2
 
 ## Object Detection
 
-[AdelaiDet](https://github.com/aim-uofa/AdelaiDet)
+[FCOS](https://github.com/aim-uofa/AdelaiDet)
 
 [CenterNet-better](https://github.com/FateScript/CenterNet-better)
 
@@ -36,6 +37,10 @@ A collection of awesome projects build with detectron2
 [CondInst](https://github.com/Epiphqny/CondInst)
 
 [SEQL](https://github.com/tztztztztz/eql.detectron2)
+
+[BlendMask](https://github.com/aim-uofa/AdelaiDet)
+
+[MEInst](https://github.com/aim-uofa/AdelaiDet)
 
 ## Semantic Segmentation
 
@@ -54,3 +59,7 @@ A collection of awesome projects build with detectron2
 [MeshRCNN](https://github.com/facebookresearch/meshrcnn)
 
 [SMOKE](https://github.com/lzccccc/SMOKE)
+
+## Text Spotting
+
+[ABCNet](https://github.com/aim-uofa/AdelaiDet)
