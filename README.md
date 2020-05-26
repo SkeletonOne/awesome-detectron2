@@ -18,6 +18,8 @@ A collection of awesome projects build with detectron2
 
 [VoVNet](https://github.com/youngwanLEE/vovnet-detectron2)
 
+[Various Backbones](https://github.com/sxhxliang/detectron2_backbone)
+
 ## Object Detection
 
 [FCOS](https://github.com/aim-uofa/AdelaiDet)
