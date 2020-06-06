@@ -18,6 +18,8 @@ A collection of awesome projects build with detectron2
 
 [VoVNet](https://github.com/youngwanLEE/vovnet-detectron2)
 
+[ResNeSt](https://github.com/shellhue/detectron2-ResNeSt)
+
 [Various Backbones](https://github.com/sxhxliang/detectron2_backbone)
 
 ## Object Detection
@@ -27,6 +29,8 @@ A collection of awesome projects build with detectron2
 [CenterNet-better](https://github.com/FateScript/CenterNet-better)
 
 [EfficientDet](https://github.com/zzzxxxttt/simple_detectron2_EfficientDet)
+
+[DETR](https://github.com/poodarchu/DETR.detectron2)
 
 ## Instance Segmentation
 
@@ -43,6 +47,8 @@ A collection of awesome projects build with detectron2
 [BlendMask](https://github.com/aim-uofa/AdelaiDet)
 
 [MEInst](https://github.com/aim-uofa/AdelaiDet)
+
+[SOLOv2](https://github.com/gakkiri/SOLOv2-detectron2)
 
 ## Semantic Segmentation
 
