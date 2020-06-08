@@ -32,6 +32,8 @@ A collection of awesome projects build with detectron2
 
 [DETR](https://github.com/poodarchu/DETR.detectron2)
 
+[MatrixNet](https://github.com/arashwan/matrixnet)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
