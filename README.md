@@ -34,6 +34,8 @@ A collection of awesome projects build with detectron2
 
 [MatrixNet](https://github.com/arashwan/matrixnet)
 
+[YOLO](https://github.com/dlsrbgg33/detectron2_YOLO)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
