@@ -30,7 +30,7 @@ A collection of awesome projects build with detectron2
 
 [EfficientDet](https://github.com/zzzxxxttt/simple_detectron2_EfficientDet)
 
-[DETR](https://github.com/poodarchu/DETR.detectron2)
+[DETR](https://github.com/facebookresearch/detr)
 
 [MatrixNet](https://github.com/arashwan/matrixnet)
 
