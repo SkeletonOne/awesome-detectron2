@@ -54,6 +54,8 @@ A collection of awesome projects build with detectron2
 
 [SOLOv2](https://github.com/gakkiri/SOLOv2-detectron2)
 
+[BMask R-CNN](https://github.com/hustvl/BMaskR-CNN)
+
 ## Semantic Segmentation
 
 [DANet](https://github.com/leftthomas/DANet)
