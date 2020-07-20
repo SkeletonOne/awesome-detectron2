@@ -44,7 +44,7 @@ A collection of awesome projects build with detectron2
 
 [CenterMask](https://github.com/youngwanLEE/centermask2)
 
-[CondInst](https://github.com/Epiphqny/CondInst)
+[CondInst](https://github.com/aim-uofa/AdelaiDet)
 
 [SEQL](https://github.com/tztztztztz/eql.detectron2)
 
