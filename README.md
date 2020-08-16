@@ -36,6 +36,8 @@ A collection of awesome projects build with detectron2
 
 [YOLO](https://github.com/dlsrbgg33/detectron2_YOLO)
 
+[FSOD](https://github.com/fanq15/FewX)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
@@ -55,6 +57,8 @@ A collection of awesome projects build with detectron2
 [SOLOv2](https://github.com/gakkiri/SOLOv2-detectron2)
 
 [BMask R-CNN](https://github.com/hustvl/BMaskR-CNN)
+
+[CPMask](https://github.com/fanq15/FewX)
 
 ## Semantic Segmentation
 
