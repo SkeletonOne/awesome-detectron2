@@ -9,6 +9,7 @@ A collection of awesome projects build with detectron2
 - [Panoptic Segmentation](#Panoptic-Segmentation)
 - [3D](#3D)
 - [Text Spotting](#Text-Spotting)
+- [Shadow Detection](#Shadow Detection)
 
 ## Base Detectron2
 
@@ -37,6 +38,8 @@ A collection of awesome projects build with detectron2
 [YOLO](https://github.com/dlsrbgg33/detectron2_YOLO)
 
 [FSOD](https://github.com/fanq15/FewX)
+
+[AugFPN](https://github.com/gakkiri/AugFPN-detectron2)
 
 ## Instance Segmentation
 
@@ -81,3 +84,7 @@ A collection of awesome projects build with detectron2
 ## Text Spotting
 
 [ABCNet](https://github.com/aim-uofa/AdelaiDet)
+
+## Shadow Detection
+
+[InstanceShadowDetection](https://github.com/stevewongv/InstanceShadowDetection)
