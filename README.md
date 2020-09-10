@@ -9,7 +9,7 @@ A collection of awesome projects build with detectron2
 - [Panoptic Segmentation](#Panoptic-Segmentation)
 - [3D](#3D)
 - [Text Spotting](#Text-Spotting)
-- [Shadow Detection](#Shadow Detection)
+- [Shadow Detection](#Shadow-Detection)
 
 ## Base Detectron2
 
