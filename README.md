@@ -21,6 +21,8 @@ A collection of awesome projects build with detectron2
 
 [ResNeSt](https://github.com/shellhue/detectron2-ResNeSt)
 
+[MGD](https://github.com/KaiyuYue/mgd)
+
 [Various Backbones](https://github.com/sxhxliang/detectron2_backbone)
 
 ## Object Detection
@@ -74,6 +76,8 @@ A collection of awesome projects build with detectron2
 ## Panoptic Segmentation
 
 [SOGNet](https://github.com/LaoYang1994/SOGNet-Dev)
+
+[Panoptic-DeepLab](https://github.com/bowenc0221/panoptic-deeplab)
 
 ## 3D
 
