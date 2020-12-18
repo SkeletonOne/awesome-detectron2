@@ -47,6 +47,8 @@ A collection of awesome projects build with detectron2
 
 [OneNet](https://github.com/PeizeSun/OneNet)
 
+[FsDet](https://github.com/vaynelau/MetaRCNN.detectron2)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
