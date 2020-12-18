@@ -45,6 +45,8 @@ A collection of awesome projects build with detectron2
 
 [Sparse R-CNN](https://github.com/PeizeSun/SparseR-CNN)
 
+[OneNet](https://github.com/PeizeSun/OneNet)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
