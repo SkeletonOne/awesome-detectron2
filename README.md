@@ -1,6 +1,6 @@
 # awesome-detectron2
 
-A collection of awesome projects build with detectron2
+This is a repository with a collection of awesome projects build with detectron2. Please feel free to open issues for your new projects with detectron2.
 
 - [Backbone](#Backbone)
 - [Object Detection](#Object-Detection)
