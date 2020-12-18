@@ -47,7 +47,7 @@ A collection of awesome projects build with detectron2
 
 [OneNet](https://github.com/PeizeSun/OneNet)
 
-[FsDet](https://github.com/vaynelau/MetaRCNN.detectron2)
+[FsDet](https://github.com/ucbdrive/few-shot-object-detection)
 
 ## Instance Segmentation
 
