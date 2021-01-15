@@ -10,6 +10,7 @@ This is a repository with a collection of awesome projects build with detectron2
 - [3D](#3D)
 - [Text Spotting](#Text-Spotting)
 - [Shadow Detection](#Shadow-Detection)
+- [Probabilistic Object Detection](#Probabilistic-Object-Detection)
 
 ## Base Detectron2
 
@@ -98,3 +99,7 @@ This is a repository with a collection of awesome projects build with detectron2
 ## Shadow Detection
 
 [InstanceShadowDetection](https://github.com/stevewongv/InstanceShadowDetection)
+
+## Probabilistic Object Detection
+
+[Probabilistic Detectron2](https://github.com/asharakeh/probdet)
