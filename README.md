@@ -10,6 +10,7 @@ This is a repository with a collection of awesome projects build with detectron2
 - [3D](#3D)
 - [Text Spotting](#Text-Spotting)
 - [Shadow Detection](#Shadow-Detection)
+- [Domain Adaptive Object Detection](#Domain-Adaptive-Object-Detection)
 - [Probabilistic Object Detection](#Probabilistic-Object-Detection)
 
 ## Base Detectron2
@@ -99,6 +100,10 @@ This is a repository with a collection of awesome projects build with detectron2
 ## Shadow Detection
 
 [InstanceShadowDetection](https://github.com/stevewongv/InstanceShadowDetection)
+
+## Domain Adaptive Object Detection
+
+[DA-RetinaNet](https://github.com/fpv-iplab/DA-RetinaNet)
 
 ## Probabilistic Object Detection
 
