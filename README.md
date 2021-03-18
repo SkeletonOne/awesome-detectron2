@@ -12,6 +12,7 @@ This is a repository with a collection of awesome projects build with detectron2
 - [Shadow Detection](#Shadow-Detection)
 - [Domain Adaptive Object Detection](#Domain-Adaptive-Object-Detection)
 - [Probabilistic Object Detection](#Probabilistic-Object-Detection)
+- [Open World Object Detection](#Open-World-Object-Detection)
 
 ## Base Detectron2
 
