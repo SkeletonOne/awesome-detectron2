@@ -51,6 +51,8 @@ This is a repository with a collection of awesome projects build with detectron2
 
 [FsDet](https://github.com/ucbdrive/few-shot-object-detection)
 
+[YOLOF](https://github.com/chensnathan/YOLOF)
+
 ## Instance Segmentation
 
 [Mask Scoring Rcnn](https://github.com/lsrock1/maskscoring_rcnn.detectron2)
@@ -108,3 +110,9 @@ This is a repository with a collection of awesome projects build with detectron2
 ## Probabilistic Object Detection
 
 [Probabilistic Detectron2](https://github.com/asharakeh/probdet)
+
+[CenterNet2](https://github.com/xingyizhou/CenterNet2)
+
+## Open World Object Detection
+
+[OWOD](https://github.com/JosephKJ/OWOD)
