@@ -90,6 +90,8 @@ This is a repository with a collection of awesome projects build with detectron2
 
 [Panoptic-DeepLab](https://github.com/bowenc0221/panoptic-deeplab)
 
+[PanopticFCN](https://github.com/yanwei-li/PanopticFCN)
+
 ## 3D
 
 [MeshRCNN](https://github.com/facebookresearch/meshrcnn)
