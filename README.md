@@ -4,6 +4,7 @@ This is a repository with a collection of awesome projects build with detectron2
 
 - [Backbone](#Backbone)
 - [Object Detection](#Object-Detection)
+- [Semi-supervised Object Detection](#Semi-supervised Object Detection)
 - [Instance Segmentation](#Instance-Segmentation)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Panoptic Segmentation](#Panoptic-Segmentation)
@@ -53,6 +54,12 @@ This is a repository with a collection of awesome projects build with detectron2
 [FsDet](https://github.com/ucbdrive/few-shot-object-detection)
 
 [YOLOF](https://github.com/chensnathan/YOLOF)
+
+## Semi-supervised Object Detection
+
+[Unbiased Teacher](https://github.com/facebookresearch/unbiased-teacher)
+
+[MUM](https://github.com/JongMokKim/mix-unmix)
 
 ## Instance Segmentation
 
@@ -109,6 +116,10 @@ This is a repository with a collection of awesome projects build with detectron2
 ## Domain Adaptive Object Detection
 
 [DA-RetinaNet](https://github.com/fpv-iplab/DA-RetinaNet)
+
+[Cycle Confusion](https://github.com/xinw1012/cycle-confusion)
+
+[Adaptive Teacher](https://github.com/facebookresearch/adaptive_teacher)
 
 ## Probabilistic Object Detection
 
