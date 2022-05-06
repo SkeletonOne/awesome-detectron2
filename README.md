@@ -14,6 +14,7 @@ This is a repository with a collection of awesome projects build with detectron2
 - [Domain Adaptive Object Detection](#Domain-Adaptive-Object-Detection)
 - [Probabilistic Object Detection](#Probabilistic-Object-Detection)
 - [Open World Object Detection](#Open-World-Object-Detection)
+- [Object Tracking](#Object-Tracking)
 
 ## Base Detectron2
 
@@ -54,6 +55,10 @@ This is a repository with a collection of awesome projects build with detectron2
 [FsDet](https://github.com/ucbdrive/few-shot-object-detection)
 
 [YOLOF](https://github.com/chensnathan/YOLOF)
+
+[Detic](https://github.com/facebookresearch/Detic)
+
+[UniDet](https://github.com/xingyizhou/UniDet)
 
 ## Semi-supervised Object Detection
 
@@ -130,3 +135,7 @@ This is a repository with a collection of awesome projects build with detectron2
 ## Open World Object Detection
 
 [OWOD](https://github.com/JosephKJ/OWOD)
+
+## Object Tracking
+
+[GTR](https://github.com/xingyizhou/GTR)
